@@ -1,0 +1,7 @@
+{
+    "go.goroot": "/home/marco/Distrobox/base-box/.local/share/mise/installs/go/1.24.1",
+    "go.alternateTools": {
+        "go": "/home/marco/Distrobox/base-box/.local/share/mise/shims/go",
+        "gopls": "/home/marco/Distrobox/base-box/.local/share/mise/shims/gopls"
+    }
+}
